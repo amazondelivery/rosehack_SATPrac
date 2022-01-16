@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC4C470827949FA100693361 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4C470727949FA100693361 /* SecondViewController.swift */; };
+		EC4C470D2794A27000693361 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC4C470C2794A27000693361 /* ThirdViewController.swift */; };
 		ECE5105C27937E6F00DCE3A1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECE5105B27937E6F00DCE3A1 /* AppDelegate.swift */; };
 		ECE5105E27937E6F00DCE3A1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECE5105D27937E6F00DCE3A1 /* SceneDelegate.swift */; };
 		ECE5106027937E6F00DCE3A1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECE5105F27937E6F00DCE3A1 /* ViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EC4C470727949FA100693361 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		EC4C470C2794A27000693361 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		ECE5105827937E6F00DCE3A1 /* rosehack_SATPrac.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rosehack_SATPrac.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECE5105B27937E6F00DCE3A1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ECE5105D27937E6F00DCE3A1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,7 +108,9 @@
 				ECE5105B27937E6F00DCE3A1 /* AppDelegate.swift */,
 				ECE5105D27937E6F00DCE3A1 /* SceneDelegate.swift */,
 				ECE5105F27937E6F00DCE3A1 /* ViewController.swift */,
+				EC4C470727949FA100693361 /* SecondViewController.swift */,
 				ECE5106127937E6F00DCE3A1 /* Main.storyboard */,
+				EC4C470C2794A27000693361 /* ThirdViewController.swift */,
 				ECE5106427937E7300DCE3A1 /* Assets.xcassets */,
 				ECE5106627937E7300DCE3A1 /* LaunchScreen.storyboard */,
 				ECE5106927937E7300DCE3A1 /* Info.plist */,
@@ -264,6 +270,8 @@
 				ECE5106027937E6F00DCE3A1 /* ViewController.swift in Sources */,
 				ECE5105C27937E6F00DCE3A1 /* AppDelegate.swift in Sources */,
 				ECE5105E27937E6F00DCE3A1 /* SceneDelegate.swift in Sources */,
+				EC4C470827949FA100693361 /* SecondViewController.swift in Sources */,
+				EC4C470D2794A27000693361 /* ThirdViewController.swift in Sources */,
 				ECE5108F27938A3000DCE3A1 /* passageStruct.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

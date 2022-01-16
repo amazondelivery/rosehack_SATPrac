@@ -16,6 +16,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func beginRandomizedFunction(_ sender: UIButton) {
+        guard let vc = storyboard?.instantiateViewController(identifier: "PassageSheet") as? SecondViewController else{
+            return
+        }
+    }
+    
 }
 
